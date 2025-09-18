@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.demmos.parqueaderoapp.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_history"
+        android:name="com.demmos.parqueaderoapp.ui.history.HistoryFragment"
+        android:label="@string/title_history"
+        tools:layout="@layout/fragment_history" />
+
+    <fragment
+        android:id="@+id/navigation_sync"
+        android:name="com.demmos.parqueaderoapp.ui.sync.SyncFragment"
+        android:label="@string/title_sync"
+        tools:layout="@layout/fragment_sync" />
+
+    <fragment
+        android:id="@+id/navigation_user"
+        android:name="com.demmos.parqueaderoapp.ui.user.UserFragment"
+        android:label="@string/title_user"
+        tools:layout="@layout/fragment_user" >
+
+
+        <action
+            android:id="@+id/action_navigation_user_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.demmos.parqueaderoapp.ui.user.SettingsFragment"
+        android:label="Gestión de Datos"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

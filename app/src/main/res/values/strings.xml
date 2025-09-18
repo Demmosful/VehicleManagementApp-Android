@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Campa</string>
+
+
+    <string name="title_home">Inicio</string>
+    <string name="title_history">Historial</string>
+    <string name="title_sync">Sincronizar</string>
+    <string name="title_user">Usuario</string>
+
+
+    <string name="home_parked_vehicles_label">Vehículos en Campa</string>
+    <string name="home_add_vehicle_button_description">Añadir nuevo vehículo</string>
+
+    <string name="history_search_hint">Escriba matrícula para buscar</string>
+
+    <string name="description_delete_button">Eliminar registro</string>
+    <string name="description_edit_button">Editar registro</string>
+    <string name="add_user_grant_admin_permissions">Conceder permisos de administrador</string>
+</resources>

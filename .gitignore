@@ -1,0 +1,52 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Archivos de compilación y APKs generados
+*.apk
+*.aab
+/build
+/app/build
+
+# Archivos de IDE (Android Studio)
+.idea/
+*.iml
+.DS_Store
+
+# Archivos de sistema de compilación de Gradle
+.gradle/
+captures/
+output/
+
+# Archivos de propiedades locales (¡MUY IMPORTANTE!)
+# Contiene la ruta del SDK y puede contener claves de API.
+local.properties
+
+# Archivos de claves sensibles (¡CRÍTICO!)
+google-services.json
+serviceAccountKey.json
+*.jks
+*.keystore
+
+# Archivos de logs y bases de datos generadas
+/app/release/
+*.log
+
+# Archivos de análisis personal
+mapa.py
+mapa_rutas.txt
+
+# Archivos del sistema operativo
+Thumbs.db
