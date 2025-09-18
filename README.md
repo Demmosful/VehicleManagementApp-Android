@@ -14,9 +14,9 @@ This project showcases a complete development cycle, from understanding client n
 
 *(Consejo para ti: Haz capturas de pantalla de alta calidad de las 4 pestañas principales de la app. Para un efecto aún más profesional, usa un programa gratuito como 'ScreenToGif' para grabar un GIF corto de 5-10 segundos mostrando la navegación entre pestañas y el scroll en la lista de historial. Sube las imágenes y el GIF al repositorio y luego enlaza a ellos aquí.)*
 
-| Login Screen | Home / Dashboard | History View | User Management |
-| :----------: | :----------: | :----------: | :----------: |
-| *(Tu captura de pantalla de LoginActivity.kt aquí)* | *(Tu captura de pantalla de HomeFragment.kt aquí)* | *(Tu captura de pantalla de HistoryFragment.kt aquí)* | *(Tu captura de pantalla de UserFragment.kt aquí)* |
+| Login Screen | Home / Dashboard | History View | Sync | User Management |
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| ![Login Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/login-screen.jpeg?raw=true) | ![Home Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/home-dashboard.jpeg?raw=true) | ![History Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/history-view.jpeg?raw=true) | ![Sync Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/sync-import-export.jpeg?raw=true) | ![User Management](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/user-management.jpeg?raw=true) |
 
 ---
 
