@@ -25,11 +25,11 @@ This project showcases a complete development cycle, from understanding client n
     <td align="center"><b>User Management</b></td>
  </tr>
  <tr>
-    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/login-screen.jpeg?raw=true" width="200" alt="Login Screen"></td>
-    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/home-dashboard.jpeg?raw=true" width="200" alt="Home Screen"></td>
-    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/history-view.jpeg?raw=true" width="200" alt="History Screen"></td>
-    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/sync-import-export.jpeg?raw=true" width="200" alt="Sync Screen"></td>
-    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/user-management.jpeg?raw=true" width="200" alt="User Management Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/login-screen.jpeg?raw=true" width="150" alt="Login Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/home-dashboard.jpeg?raw=true" width="150" alt="Home Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/history-view.jpeg?raw=true" width="150" alt="History Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/sync-import-export.jpeg?raw=true" width="150" alt="Sync Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/user-management.jpeg?raw=true" width="150" alt="User Management Screen"></td>
  </tr>
 </table>
 
