@@ -14,9 +14,24 @@ This project showcases a complete development cycle, from understanding client n
 
 *(Consejo para ti: Haz capturas de pantalla de alta calidad de las 4 pestañas principales de la app. Para un efecto aún más profesional, usa un programa gratuito como 'ScreenToGif' para grabar un GIF corto de 5-10 segundos mostrando la navegación entre pestañas y el scroll en la lista de historial. Sube las imágenes y el GIF al repositorio y luego enlaza a ellos aquí.)*
 
-| Login Screen | Home / Dashboard | History View | Sync | User Management |
-| :----------: | :----------: | :----------: | :----------: | :----------: |
-| ![Login Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/login-screen.jpeg?raw=true) | ![Home Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/home-dashboard.jpeg?raw=true) | ![History Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/history-view.jpeg?raw=true) | ![Sync Screen](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/sync-import-export.jpeg?raw=true) | ![User Management](https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/user-management.jpeg?raw=true) |
+## 📸 Screenshots & Demo
+
+<table align="center">
+ <tr>
+    <td align="center"><b>Login Screen</b></td>
+    <td align="center"><b>Home / Dashboard</b></td>
+    <td align="center"><b>History View</b></td>
+    <td align="center"><b>Sync</b></td>
+    <td align="center"><b>User Management</b></td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/login-screen.jpeg?raw=true" width="200" alt="Login Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/home-dashboard.jpeg?raw=true" width="200" alt="Home Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/history-view.jpeg?raw=true" width="200" alt="History Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/sync-import-export.jpeg?raw=true" width="200" alt="Sync Screen"></td>
+    <td><img src="https://github.com/Demmosful/VehicleManagementApp-Android/blob/main/screenshots/user-management.jpeg?raw=true" width="200" alt="User Management Screen"></td>
+ </tr>
+</table>
 
 ---
 
